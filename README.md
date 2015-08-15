@@ -5,7 +5,7 @@ for the purpose of being more prepared for the 2016 season.*
 
 #Feature list
 
-##Needs
+####Needs
 - mobile app
 - update match data to master device at end of each match
 - operate without use of wifi or mobile data, ever
@@ -18,7 +18,7 @@ for the purpose of being more prepared for the 2016 season.*
 - robot selection interface
 - cache all scouter data locally
 
-##Wants
+####Wants
 - plus laptop app
   - quickly transition to another machine - export/import
   - team comparison tool
@@ -36,7 +36,7 @@ for the purpose of being more prepared for the 2016 season.*
 - call scouter notification
 - meetup and locally transfer data between master scouters from diff. teams at end of day
 
-##Hopes + Dreams
+####Hopes + Dreams
 - AI recommendations
 - AI performance predictions
 - multiple different teams - login to your team, export all your data
